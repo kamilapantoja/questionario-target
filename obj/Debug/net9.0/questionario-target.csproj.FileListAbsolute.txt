@@ -1,0 +1,14 @@
+C:\Users\kmspa\OneDrive\Área de Trabalho\questionario-target\bin\Debug\net9.0\questionario-target.exe
+C:\Users\kmspa\OneDrive\Área de Trabalho\questionario-target\bin\Debug\net9.0\questionario-target.deps.json
+C:\Users\kmspa\OneDrive\Área de Trabalho\questionario-target\bin\Debug\net9.0\questionario-target.runtimeconfig.json
+C:\Users\kmspa\OneDrive\Área de Trabalho\questionario-target\bin\Debug\net9.0\questionario-target.dll
+C:\Users\kmspa\OneDrive\Área de Trabalho\questionario-target\bin\Debug\net9.0\questionario-target.pdb
+C:\Users\kmspa\OneDrive\Área de Trabalho\questionario-target\obj\Debug\net9.0\questionario-target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmspa\OneDrive\Área de Trabalho\questionario-target\obj\Debug\net9.0\questionario-target.AssemblyInfoInputs.cache
+C:\Users\kmspa\OneDrive\Área de Trabalho\questionario-target\obj\Debug\net9.0\questionario-target.AssemblyInfo.cs
+C:\Users\kmspa\OneDrive\Área de Trabalho\questionario-target\obj\Debug\net9.0\questionario-target.csproj.CoreCompileInputs.cache
+C:\Users\kmspa\OneDrive\Área de Trabalho\questionario-target\obj\Debug\net9.0\questionario-target.dll
+C:\Users\kmspa\OneDrive\Área de Trabalho\questionario-target\obj\Debug\net9.0\refint\questionario-target.dll
+C:\Users\kmspa\OneDrive\Área de Trabalho\questionario-target\obj\Debug\net9.0\questionario-target.pdb
+C:\Users\kmspa\OneDrive\Área de Trabalho\questionario-target\obj\Debug\net9.0\questionario-target.genruntimeconfig.cache
+C:\Users\kmspa\OneDrive\Área de Trabalho\questionario-target\obj\Debug\net9.0\ref\questionario-target.dll
